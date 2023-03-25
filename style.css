@@ -1,0 +1,15 @@
+body{
+    /* background-color: rgb(255, 248, 248); */
+    background: url(cloud.png) no-repeat ;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    /* opacity: ; */
+}
+.navbar {
+    background-color: #cfcfcf;
+}
+footer{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 14px;
+}
